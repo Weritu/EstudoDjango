@@ -1,5 +1,2 @@
 # EstudoDjango
-# EstudoDjango
-# EstudoDjango
-# EstudoDjango
-# EstudoDjango
+Projeto para estudo do Framework
